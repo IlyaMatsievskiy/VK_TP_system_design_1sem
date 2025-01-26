@@ -1,6 +1,8 @@
 # System Design Course Project
 
 This README provides a brief overview of the project completed as part of a System Design course.
+**If you want to read the description in Russian, open README_ru**.
+
 
 ---
 
